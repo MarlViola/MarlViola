@@ -2,18 +2,6 @@
 
 🇮🇹 Italian high school student passionate about computer science and programming.
 
-## 👨‍💻 About me
-- 📚 Studying **Computer Science** in high school  
-- 🐍 I mainly code in **Python** and **C**
-- 🎮 Interested in **game development** (GameMaker, Godot)
-- 🧠 I like learning how things work under the hood
-- 🚀 Always trying to improve my coding skills
-
-## 🛠️ Languages & Tools
-- **Languages:** Python, C  
-- **Tools & Technologies:** Git, GitHub, Linux (Ubuntu)  
-- **Game Dev:** GameMaker, Godot (learning)
-
 ## 📂 Projects
 Here on my GitHub you can find:
 - School projects  
